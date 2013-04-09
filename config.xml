@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.reunionestimulacioncardiaca"
+    version   = "1.0.0">
+
+<name>Reunión Estimulación Cardíaca</name>
+
+<description>
+Aplicación para la Reunión.
+</description>
+<icon src="images/logoapp.png" />
+<icon src="apple-touch-icon.png" gap:platform="ios" />
+<icon src="apple-touch-icon.png" gap:platform="ios" width="320" height="460"/> 
+<icon src="apple-touch-startup-image-480.png" gap:platform="ios" width="480" height="800" media="(max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)" /> 
+<author href="http://www.bittingbits.com" email="info@bittingbits.com">
+Bittingbits.com
+</author>
+
+</widget>

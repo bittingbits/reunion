@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(../../../../../fonts.googleapis.com/css@family=Open+Sans_3A300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+@import url(../../../../../fonts.googleapis.com/css@family=Lato_3A700,900,700italic,900italic);
+body{
+	background-color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+}
+a{
+	color:#9F4437;
+	text-decoration:none;
+}
+
+p{
+	font-size:11px;
+	line-height:16px;
+	color:#333333;
+}
